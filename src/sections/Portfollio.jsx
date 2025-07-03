@@ -35,7 +35,7 @@ const governmentProjects = [
 const commercialProjects = [
   { image: Rajesh, title: 'Rajesh Masala & Raghav Bhog' },
   { image: Dalmau, title: 'Dalmau Food Plant' },
-  { image: doctor, title: 'Dr. Hriday Ji Heart Hospital' },
+  { image: doctor, title: 'Dr. Hriday Ji Heart Hospital, Gomtinagar,Lucknow' },
   { image: bank, title: 'Bank DBS Gomti Nagar, Lavanya Height' },
   { image: citrus, title: 'Citrus Restaurant & Banquets Ashiyana, Lucknow' },
   { image: oyo, title: 'Hotel Town House, Indira Nagar, Lucknow' },
