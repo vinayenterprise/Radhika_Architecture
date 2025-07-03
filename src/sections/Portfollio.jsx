@@ -42,15 +42,15 @@ const commercialProjects = [
   { image: ornate, title: 'Hotel Ornate, Telibagh, Lucknow' },
   { image: assh, title: 'Oyo Town House, Ashiyana, Lucknow' },
   { image: lili, title: 'Hotel Lili Villas, Lucknow' },
-  { image: kukud, title: 'Kukkad Rangila The Family Restaurant' },
+  { image: kukud, title: 'Kukkad Rangila The Family Restaurant,Patel Nagar, Alambagh,Lucknow' },
   { image: jindal, title: 'Jindal Farm House' },
 ];
 
 const residentialProjects = [
-  { image: judge, title: 'Honorable Judge Residence' },
-  { image: Arvind, title: 'Mr. Arvind Singh (Chief Manager UBI) ' },
-  { image: Gaurav, title: 'Mr. Gaurav Residence' },
-  { image: Jitendra, title: 'Mr. Jitendra Residence' },
+  { image: judge, title: 'Honorable Judge, AmarSahidpath, Lucknow' },
+  { image: Arvind, title: 'Mr. Arvind Singh (Chief Manager UBI), Vrindawan colony Lucknow' },
+  { image: Gaurav, title: 'Mr. Gaurav, Vrindawan colony Lucknow' },
+  { image: Jitendra, title: 'Mr. Jitendra, Emmar Gomtinagar,Lucknow' },
   { image: Shalimar, title: 'Shalimar One World Vista, Gomtinagar, Lucknow' },
   { image: har, title: 'Mr. Harmeet Singh Ji, Krishna Nagar Shubham City, Lucknow' },
 ];
