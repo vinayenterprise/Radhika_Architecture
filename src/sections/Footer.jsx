@@ -9,7 +9,7 @@ import {
   FaWhatsapp,
 } from "react-icons/fa";
 import { Link as ScrollLink } from "react-scroll"; // alias to avoid confusion
-import logo from "../assets/r_logo.jpeg";
+import logo from "support.svg";
 
 const Footer = () => {
   return (
